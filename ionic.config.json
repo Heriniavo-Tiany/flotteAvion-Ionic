@@ -1,0 +1,7 @@
+{
+  "name": "Vehicule",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
